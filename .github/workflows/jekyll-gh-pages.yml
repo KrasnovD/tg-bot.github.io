@@ -49,7 +49,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         run: |
-          git config --global user.name 'Denis Krasnov'
+          git config --global user.name 'Krasnov Denis'
           git config --global user.email 'krasnovdenis871@gmail.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           npm run deploy
