@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tg-bot.github.io/static/css/main.2024e7b7.css",
+    "main.js": "/tg-bot.github.io/static/js/main.84ebdf1b.js",
+    "static/js/651.65059170.chunk.js": "/tg-bot.github.io/static/js/651.65059170.chunk.js",
+    "index.html": "/tg-bot.github.io/index.html",
+    "main.2024e7b7.css.map": "/tg-bot.github.io/static/css/main.2024e7b7.css.map",
+    "main.84ebdf1b.js.map": "/tg-bot.github.io/static/js/main.84ebdf1b.js.map",
+    "651.65059170.chunk.js.map": "/tg-bot.github.io/static/js/651.65059170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2024e7b7.css",
+    "static/js/main.84ebdf1b.js"
+  ]
+}
