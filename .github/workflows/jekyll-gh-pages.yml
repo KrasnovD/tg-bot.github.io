@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x]
+        node-version: [18.x]
 
     steps:
       - name: Checkout repository
@@ -42,5 +42,5 @@ jobs:
         env:
           user_name: 'KrasnovD'
           user_email: 'krasnovdenis871@gmail.com'
-          github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
