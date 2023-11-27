@@ -51,5 +51,6 @@ jobs:
         run: |
           git config --global user.name 'Krasnov Denis'
           git config --global user.email 'krasnovdenis871@gmail.com'
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           npm run deploy
