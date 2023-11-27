@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name $user_name
           git config --global user.email $user_email
-          git remote set-url origin https://KrasnovD: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@github.com/KrasnovD/tg-bot.github.io
+          git remote set-url origin https://$user_name:$github_token@github.com/$user_name/tg-bot.github.io
           npm run deploy
         env:
           user_name: 'KrasnovD'
