@@ -12,11 +12,12 @@
 }
 
 .clickerDisplay {
-  height: 200px;
+  height: 100px;
 }
 
 .clickerButtonContainer {
-  height: 80%;
+  height: 50%;
+  margin: 34% 0;
 }
 img {
   height: 50vh;
