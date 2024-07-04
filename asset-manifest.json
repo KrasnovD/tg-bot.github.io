@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/tg-bot.github.io/static/css/main.2024e7b7.css",
-    "main.js": "/tg-bot.github.io/static/js/main.84ebdf1b.js",
+    "main.css": "/tg-bot.github.io/static/css/main.b63b92be.css",
+    "main.js": "/tg-bot.github.io/static/js/main.ba2e2635.js",
     "static/js/651.65059170.chunk.js": "/tg-bot.github.io/static/js/651.65059170.chunk.js",
+    "static/media/hardWorkers.jpg": "/tg-bot.github.io/static/media/hardWorkers.b9773834f5272af4c666.jpg",
     "index.html": "/tg-bot.github.io/index.html",
-    "main.2024e7b7.css.map": "/tg-bot.github.io/static/css/main.2024e7b7.css.map",
-    "main.84ebdf1b.js.map": "/tg-bot.github.io/static/js/main.84ebdf1b.js.map",
+    "main.b63b92be.css.map": "/tg-bot.github.io/static/css/main.b63b92be.css.map",
+    "main.ba2e2635.js.map": "/tg-bot.github.io/static/js/main.ba2e2635.js.map",
     "651.65059170.chunk.js.map": "/tg-bot.github.io/static/js/651.65059170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2024e7b7.css",
-    "static/js/main.84ebdf1b.js"
+    "static/css/main.b63b92be.css",
+    "static/js/main.ba2e2635.js"
   ]
 }
