@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/tg-bot.github.io/static/css/main.aae8758a.css",
-    "main.js": "/tg-bot.github.io/static/js/main.cd394b77.js",
-    "static/js/651.53f296df.chunk.js": "/tg-bot.github.io/static/js/651.53f296df.chunk.js",
-    "static/media/hardWorkers.jpg": "/tg-bot.github.io/static/media/hardWorkers.b9773834f5272af4c666.jpg",
+    "main.css": "/tg-bot.github.io/static/css/main.a59656e2.css",
+    "main.js": "/tg-bot.github.io/static/js/main.914c1081.js",
+    "static/js/651.65059170.chunk.js": "/tg-bot.github.io/static/js/651.65059170.chunk.js",
+    "static/media/good.mp4": "/tg-bot.github.io/static/media/good.c57fe98ec48f85a19885.mp4",
+    "static/media/bad.mp4": "/tg-bot.github.io/static/media/bad.dcda6fd736edfbcc8dea.mp4",
     "index.html": "/tg-bot.github.io/index.html",
-    "main.aae8758a.css.map": "/tg-bot.github.io/static/css/main.aae8758a.css.map",
-    "main.cd394b77.js.map": "/tg-bot.github.io/static/js/main.cd394b77.js.map",
-    "651.53f296df.chunk.js.map": "/tg-bot.github.io/static/js/651.53f296df.chunk.js.map"
+    "main.a59656e2.css.map": "/tg-bot.github.io/static/css/main.a59656e2.css.map",
+    "main.914c1081.js.map": "/tg-bot.github.io/static/js/main.914c1081.js.map",
+    "651.65059170.chunk.js.map": "/tg-bot.github.io/static/js/651.65059170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aae8758a.css",
-    "static/js/main.cd394b77.js"
+    "static/css/main.a59656e2.css",
+    "static/js/main.914c1081.js"
   ]
 }
