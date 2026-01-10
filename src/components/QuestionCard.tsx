@@ -16,7 +16,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
                                                        selectedAnswer,
                                                        onAnswerSelect,
                                                    }) => {
-    const optionLetters = ['а', 'б', 'в', 'г'];
+    const optionLetters = ['а', 'б', 'в', 'г', 'д', 'е', 'ж'];
 
     return (
         <div className="question-card">

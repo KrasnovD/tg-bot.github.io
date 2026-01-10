@@ -20,7 +20,7 @@ const TestResults: React.FC<TestResultsProps> = ({
                                                      onRestart,
                                                      onNewTest,
                                                  }) => {
-    const optionLetters = ['а', 'б', 'в', 'г'];
+    const optionLetters = ['а', 'б', 'в', 'г', 'д', 'е', 'ж'];
 
     return (
         <div className="test-results">

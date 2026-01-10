@@ -6256,7 +6256,6 @@ export const sampleQuestions: Question[] = [
         options: [
             "эволюционный путь",
             "революционный путь",
-            "реформационный путь",
             "реформационный путь"
         ],
         correctAnswer: 2
